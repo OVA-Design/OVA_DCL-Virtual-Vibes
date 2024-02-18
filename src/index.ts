@@ -1,7 +1,7 @@
 // We define the empty imports so the auto-complete feature works as expected.
 import { Vector3 } from '@dcl/sdk/math'
 import { createGLTF } from './factory'
-import { createDanceArea } from './autoPlaying'
+import { createPlayArea } from './autoPlaying'
 
 export function main() {
   /**
@@ -9,7 +9,7 @@ export function main() {
    */
 
   ////add animation and sound modified area
-  createDanceArea(
+  createPlayArea(
     Vector3.create(32, 1, 8),
     Vector3.create(16, 1, 20),
     'sounds/corporate-beat-ambient-ig-version-loop-2-7299.mp3',
@@ -25,7 +25,7 @@ export function main() {
    */
 
   ////add animation and sound modified area
-  createDanceArea(
+  createPlayArea(
     Vector3.create(32 - 17, 2, 8 - 6),
     Vector3.create(16, 1, 20),
     'sounds/energetic-and-upbeat-indie-rock-positive-loop-2-30s-5877.mp3',
@@ -41,7 +41,7 @@ export function main() {
    */
 
   ////add animation and sound modified area
-  createDanceArea(
+  createPlayArea(
     Vector3.create(32 - 34, 1, 8),
     Vector3.create(16, 1, 20),
     'sounds/inspiring-cinematic-uplifting-piano-loop-8703.mp3',

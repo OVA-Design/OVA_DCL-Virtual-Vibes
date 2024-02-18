@@ -13,7 +13,7 @@ import { Quaternion, Vector3 } from '@dcl/sdk/math'
 
 let isPlaying = false // Flag to track if the player is dancing
 
-export function createDanceArea(
+export function createPlayArea(
   position: Vector3,
   scale: Vector3,
   soundPath: string,
