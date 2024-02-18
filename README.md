@@ -21,3 +21,5 @@ _energetic-and-upbeat-indie-rock-positive-loop-2-30s-5877.mp3_
 Music by [Oleksii Kaplunskyi](https://pixabay.com/users/lesfm-22579021/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=5877) from [Pixabay](https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=5877)
 
 **Classical or Light Acoustic**(chill-out):
+_sounds/inspiring-cinematic-uplifting-piano-loop-8703.mp3_
+Music by [Zakhar Valaha](https://pixabay.com/users/daddy_s_music-22836301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=8703) from [Pixabay](https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=8703)
