@@ -1,5 +1,8 @@
 # Decentraland Build - Virtual Vibes by OVA.DESIGN
 
+You can also find latest files from our repo: https://github.com/OVA-Design/OVA_DCL-Virtual-Vibes
+Chceck out our project page with renderings here: https://www.ova.design/latest-works/virtual-vibes
+
 ### Project Concept
 
 **"Music is the architecture of sound, building spaces in our minds and hearts."**
