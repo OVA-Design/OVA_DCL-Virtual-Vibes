@@ -5,6 +5,7 @@
 **"Music is the architecture of sound, building spaces in our minds and hearts."**
 
 **This project seeks to craft a space where the dynamics, mood, and tempo of music are dynamically visualized, transforming the acoustic environment through the morphing kinetic movements and shifting colors within the spatial design of the enclosure.**
+![Image](https://raw.githubusercontent.com/OVA-Design/OVA_DCL-Virtual-Vibes/main/images/snapshot.png)
 
 1. **Structure and Design:** Various origami structural shapes were tested to find the most aesthetically pleasing folding pattern that suits our concept. The design will be lightweight, flexible and easily manipulated through animations. We will also propose to use this dynamic texture with the floor so the user will feel like they are floating in space. The idea of the origami is inspired by its sectional quality representing musical wave lengths.
 
